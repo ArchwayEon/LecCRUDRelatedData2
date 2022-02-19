@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LecCRUDRelatedData2", "LecCRUDRelatedData2\LecCRUDRelatedData2.csproj", "{6367FE07-54BA-42C9-8714-CC4FC86D8061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6367FE07-54BA-42C9-8714-CC4FC86D8061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6367FE07-54BA-42C9-8714-CC4FC86D8061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6367FE07-54BA-42C9-8714-CC4FC86D8061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6367FE07-54BA-42C9-8714-CC4FC86D8061}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2136812-6E51-44F9-BFF4-6B466CD5D7C5}
+	EndGlobalSection
+EndGlobal
