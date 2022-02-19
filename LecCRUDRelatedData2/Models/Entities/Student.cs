@@ -12,5 +12,6 @@ public class Student
     public string LastName { get; set; } = String.Empty;
     public ICollection<StudentCourseGrade> CourseGrades { get; set; }
         = new List<StudentCourseGrade>();
+    public Internship? Internship { get; set; }
 }
 
